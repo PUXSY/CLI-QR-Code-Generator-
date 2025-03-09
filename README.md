@@ -1,6 +1,6 @@
 # CLI QR Code Generator
 ## Demo
-![image](//https://ibb.co/XZKFjynZ)
+![image](https://ibb.co/XZKFjynZ)
 
 ## 🚀 Getting Started
 
