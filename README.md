@@ -1,6 +1,8 @@
 # CLI QR Code Generator
+
+A really, really simple QR code generator that only works on the terminal. It's more for me, But if anyone ever sees this then your welcome.
 ## Demo
-![image](https://ibb.co/XZKFjynZ)
+![image](https://i.ibb.co/bgCNQH4g/image.png)
 
 ## 🚀 Getting Started
 
